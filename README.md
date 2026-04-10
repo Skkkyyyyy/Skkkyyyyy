@@ -2,7 +2,7 @@
 
 🎓 CS student in Hong Kong · 🎵 Kpop & music lover · 🛠️ Builder at heart
 
-> "Find the problem. Build the solution."
+📧 Email: sally1152005@gmail.com
 
 ---
 
@@ -10,8 +10,7 @@
 
 - 🇭🇰 Based in **Hong Kong**
 - 💡 Passionate about finding real-life problems and building tech products that solve them
-- 🎵 Huge fan of **Kpop & music** — always have a playlist running
-- 🌱 Currently learning more about **NLP**, **LLMs**, and **full-stack development**
+- 🌱 Currently learning more about **LLMs**, and **full-stack development**
 - 🔭 Always working on something new
 
 ---
@@ -29,15 +28,10 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 📫 Get In Touch
-
-Feel free to reach out if you want to collaborate or just chat about ideas!
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
