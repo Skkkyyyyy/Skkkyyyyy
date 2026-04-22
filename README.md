@@ -17,7 +17,7 @@
 
 ## 🚀 My Projects
 
-### 🎶💿 ([Attention Y2K Visualizer](https://github.com/YOUR_USERNAME/attention-y2k-visualizer)
+### 🎶💿 [Attention Y2K Visualizer](https://github.com/YOUR_USERNAME/attention-y2k-visualizer)
 > A Y2K-inspired interactive music visualizer that recreates a nostalgic Windows desktop experience, featuring draggable UI elements like Notepad, Media Player, and image viewer to bring NewJeans’ *Attention* to life~
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
