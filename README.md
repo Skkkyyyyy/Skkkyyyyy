@@ -17,6 +17,14 @@
 
 ## 🚀 My Projects
 
+### 🎶💿 ([Attention Y2K Visualizer](https://github.com/YOUR_USERNAME/attention-y2k-visualizer)
+> A Y2K-inspired interactive music visualizer that recreates a nostalgic Windows desktop experience, featuring draggable UI elements like Notepad, Media Player, and image viewer to bring NewJeans’ *Attention* to life~
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ### 🔍 [CantoLens](https://github.com/Skkkyyyyy/canto-translator)
 > Cantonese romanization translator — converts informal Cantonese input (e.g. *mm ho gum la*) into Traditional Chinese, Mandarin, and English using a local glossary + LLM pipeline.
 
