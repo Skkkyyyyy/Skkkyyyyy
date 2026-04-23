@@ -10,7 +10,7 @@
 
 - 🇭🇰 Based in **Hong Kong**
 - 💡 Passionate about finding real-life problems and building tech products that solve them
-- 🌱 Currently learning more about **LLMs**, and **full-stack development**
+- 🎨 Currently developing **a personal aesthetic system** and exploring new ways to **express ideas through interactive web experiences**
 - 🔭 Always working on something new
 
 ---
